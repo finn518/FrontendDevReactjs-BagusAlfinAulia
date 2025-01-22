@@ -25,3 +25,6 @@ Install my-project with npm
 npm install 
 npm run dev
 ```
+
+## Link Deploy
+### https://frontend-dev-reactjs-bagus-alfin.vercel.app/
